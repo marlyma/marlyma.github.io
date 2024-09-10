@@ -187,13 +187,9 @@ a:hover {
 /*Contact Section*/
 .one-col {
     display: grid;
-    grid-template-columns: 1fr;
-    align-items: center;
+    grid-template-columns: 800px;
     gap: 2%;
-    margin-left: 25%;
-    place-content: center;
     margin-top: 5%;
-    width: 50%;
     justify-content: center;
     
 }
