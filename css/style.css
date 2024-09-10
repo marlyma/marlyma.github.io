@@ -191,7 +191,7 @@ a:hover {
     align-items: center;
     gap: 2%;
     margin-left: 25%;
-    margin-bottom: 2%;
+    place-content: center;
     margin-top: 5%;
     width: 50%;
     justify-content: center;
